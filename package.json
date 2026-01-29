@@ -1,6 +1,6 @@
 {
   "name": "com.yourname.asset-bundle",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "My Asset Bundle",
   "description": "모든 Asset Store 에셋을 하나로 묶은 패키지",
   "unity": "2021.3",

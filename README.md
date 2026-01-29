@@ -4,7 +4,18 @@
 
 ## 포함된 에셋
 
-- **ConsolePro** (3.980): Editor Console Pro - 강화된 Unity Console
+### Editor Tools
+- **ConsolePro** (3.980): 강화된 Unity Console
+- **vInspector 2**: 향상된 인스펙터 UI
+- **vHierarchy 2**: 강화된 Hierarchy 윈도우
+- **vFolders 2**: 프로젝트 폴더 관리 도구
+- **vTabs 2**: 탭 관리 시스템
+- **Wingman**: Inspector 보조 도구
+- **Better Hierarchy**: Hierarchy 아이콘 및 기능 추가
+- **Odin Inspector** (Sirenix): 강력한 인스펙터 확장
+
+### Animation & Tween
+- **DOTween Pro**: 프로페셔널 트위닝 라이브러리
 
 ## 설치 방법
 
