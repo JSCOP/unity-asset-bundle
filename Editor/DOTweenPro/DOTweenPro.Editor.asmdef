@@ -1,0 +1,22 @@
+{
+    "name": "DOTweenPro.Editor",
+    "rootNamespace": "DG.Tweening",
+    "references": [
+        "DOTween.Runtime",
+        "DOTween.Editor",
+        "DOTweenPro.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTweenProEditor.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

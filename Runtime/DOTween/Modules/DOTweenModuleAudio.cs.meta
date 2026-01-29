@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 393ca00c40899e9488a2c47185816d6d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32416
+  packageName: DOTween Pro
+  packageVersion: 1.0.386
+  assetPath: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs
+  uploadId: 831236

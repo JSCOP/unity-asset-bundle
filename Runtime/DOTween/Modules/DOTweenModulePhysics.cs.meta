@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5aa2920598141d34aa8ad2ec4b78946a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32416
+  packageName: DOTween Pro
+  packageVersion: 1.0.386
+  assetPath: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs
+  uploadId: 831236
